@@ -102,7 +102,7 @@ If not found, all of the required packages will be installed on first run
 
 ## [+] Find Me on :
 <ul>
-<li><a href="https://facebook.com/SnehKr"><img src="https://github.com/SnehKr/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
-<li><a href="https://t.me/SnehKr"><img src="https://github.com/SnehKr/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
-<li><a href="mailto://Snehkr.official@gmail.com"><img src="https://github.com/SnehKr/kasweb/raw/main/assets/gmail.png" alt="email" width="20px" height="20px"></a></li>
+<li><a href="https://facebook.com/krsneh"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="facebook" width="20px" height="20px"></a></li>
+<li><a href="https://t.me/SnehKr"><img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" alt="messenger" width="20px" height="20px"></a></li>
+<li><a href="mailto://Snehkr.official@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" width="20px" height="20px"></a></li>
 </ul>
