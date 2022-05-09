@@ -31,7 +31,7 @@ RUN apt-get install -y unzip
 RUN apt-get clean
 
 # Main command
-CMD ["python3", "PyPhish.py"]
+CMD ["python3", "pyphish.py"]
 
 ## Wanna run it own? Try following commnads:
 
