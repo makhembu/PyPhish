@@ -40,11 +40,11 @@
  - ```cd PyPhish```
 
 ##### Run the tool
- - ```python3 PyPhish.py```
+ - ```python3 pyphish.py```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/SnehKr/PyPhish/main/PyPhish.py && python3 PyPhish.py
+wget https://raw.githubusercontent.com/SnehKr/PyPhish/main/pyphish.py && python3 pyphish.py
 
 ```
 
