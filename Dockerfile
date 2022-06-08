@@ -1,5 +1,4 @@
 # Dockerfile
-
 # Author       : SnehKr
 # Github       : https://github.com/SnehKr
 # Messenger    : https://m.me/SnehKr
@@ -8,7 +7,6 @@
 # Main Language: Python
 
 # Download and import main images
-
 # Operating system
 FROM debian:10
 # Main package
