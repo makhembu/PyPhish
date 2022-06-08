@@ -3,7 +3,7 @@
 # Author       : SnehKr
 # Github       : https://github.com/SnehKr
 # Messenger    : https://m.me/SnehKr
-# Email        : kasroudrakrd@gmail.com
+# Email        : snehkr.official@gmail.com
 # Date         : 02-05-2022
 # Main Language: Python
 
